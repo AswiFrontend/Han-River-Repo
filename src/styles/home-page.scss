@@ -1,0 +1,22 @@
+.home-h1 {
+    background-color: lightgreen;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    padding: 2rem 0;
+    margin: 0;
+}
+
+.home-status {
+    padding: 1rem;
+}
+
+.all-products {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 1rem;
+}

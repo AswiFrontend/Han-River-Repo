@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.nav-ul {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    color: #b4bcc3;
+    font-size: 1.1rem;
+
+}
+
+.nav button {
+    background-color: #f62;
+    border-radius: 2rem;
+    border: none;
+    padding: .5rem 2rem;
+    color: white;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
